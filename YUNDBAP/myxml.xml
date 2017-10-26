@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    
+    <row name="首页" imgurl="/Images/icon/db_1a.png" weburl="http://www.zhanyoujinfu.com/"/>
+
+
+<!---->
+<!--    <row name="栏目" imgurl="/Images/icon/db_2a.png" weburl="http://site.appe.cc/TestSdk.html"/>-->
+<!--    <row name="栏目" imgurl="/Images/icon/db_2a.png" weburl="http://site.yundabao.com/UploadTest.aspx"/>-->
+<!--    <row name="栏目" imgurl="/Images/icon/db_2a.png" weburl="http://www.yundabao.com/JsSdkDemo/wxlogin.html"/>-->
+<!---->
+    <row name="栏目名称" imgurl="/Images/icon/db_3a.png" weburl="http://cc.yundabao.com/API/JssdkDemo/Default.htm"/>
+
+    <row name="测试" imgurl="/Images/icon/db_24a.png" weburl="http://www.yundabao.com/JsSdkDemo/index.html"/>
+
+    <row name="hao1231" imgurl="/Images/icon/db_29a.png" weburl="http://shop.yueashop.com/index/signin"/>
+<!--    <row name="hao1232" imgurl="/Images/icon/db_29a.png" weburl="http://www.hao123.com"/>-->
+<!--<row name="hao1232" imgurl="/Images/icon/db_29a.png" weburl="http://www.yundabao.com/testpushmsg.htm"/>-->
+<!---->
+<!--    <row name="hao1233" imgurl="/Images/icon/db_29a.png" weburl="http://www.yundabao.com/JsSdkDemo/lxrc.html"/>-->
+<!--    <row name="hao1233" imgurl="s" weburl="http://yn.news.163.com/special/03230P26/index.html"/>-->
+<!--    <row name="hao1233" imgurl="s" weburl="http://m.milemai.com/help.htm"/>-->
+<!--    <row name="hao1233" imgurl="s" weburl="http://www.lvpailove.com/"/>-->
+<!--     <row name="hao1233" imgurl="s" weburl="http://site.yundabao.com/imgtest.htm"/>-->
+<row name="JSDemo" imgurl="" weburl="http://www.yundabao.com/api/jssdkdemo/DefaultNew.htm"/>
+</resources>
+

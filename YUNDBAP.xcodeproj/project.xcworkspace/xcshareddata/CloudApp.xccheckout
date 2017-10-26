@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C9DEDC7-78F4-4A1A-AE7A-2DFCB4AF6834</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CloudApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>bc10b555-2113-5545-9f0c-16e544975732++6164</key>
+		<string>https://td-svn.9v.com/svn/9V/IOS/trunk/NewCloudApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CloudApp/CloudApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>bc10b555-2113-5545-9f0c-16e544975732++6164</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>bc10b555-2113-5545-9f0c-16e544975732++6164</key>
+		<string>https://td-svn.9v.com/svn/9V</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://td-svn.9v.com/svn/9V/IOS/trunk/NewCloudApp/CloudApp/CloudApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>bc10b555-2113-5545-9f0c-16e544975732++6164</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>bc10b555-2113-5545-9f0c-16e544975732++6164</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewCloudApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

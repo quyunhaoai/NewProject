@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="appname">测试</string>
+  <!-- 模版信息资料  用户id -->
+  <string name="appsid">50384</string>
+  <!--app信息获取接口  -->
+  <string name="serveripaddress">http://apiinfoios.ydbimg.com/default.aspx?</string>
+  <!-- 个推配置信息  -->
+  <string name="AppKey">H3gLvBcMJy7WdgQSCu8kp3</string>
+  <string name="AppID">NQYUz8Ud5B8QhGnOME9Cg3</string>
+  <string name="AppSecret">833oYmvPJf7nkIeNInpf3</string>
+  <!-- 版权信息  -->
+  <string name="banquaninfo">-</string>
+  <!-- 下拉刷新模式  -->
+  <string name="RefresImageType">0</string>
+  <!-- 进度条加载模式  -->
+  <string name="LoaderImageType">1</string>
+  <!-- 首次轮播图信息  -->
+  <string name="FrontSliderState">0</string>
+  <string name="FrontSliderImageCount">0</string>
+  <!-- 右侧菜单配置  -->
+  <string name="RightMenuIsShow">1</string>
+  <string name="RightMenuFontColor">#999999</string>
+  <!-- 底部导航配置  -->
+  <string name="tabbarTextColor">#be1007</string>
+  <string name="BottomMenuBarBackColor">#f8f8f8</string>
+  <string name="BottomMenuBarHeight">45</string>
+  <string name="BMenubarTextcolorNomal">#5c5c5c</string>
+  <string name="BMenubarTextcolorActive">#5c5c5c</string>
+  <string name="MenuBarLineColor">#21ade6</string>
+  <!-- 顶部导航配置  -->
+  <string name="TitleBarHeight">45</string>
+  <string name="TitleBarIsShow">1</string>
+  <string name="adaptIOS7Nav">1</string>
+  <string name="TitleBarColor">#2cc2fa</string>
+  <!-- GPS定位配置  -->
+  <string name="GpsPostUrl">
+  </string>
+  <string name="GPSGrabInterval">300</string>
+  <string name="GPSPostInterval">600</string>
+  <string name="GPSIOSAppKey">Qk1fct7xEXD6qZvONVtqbBpO</string>
+  <!-- 支付宝配置信息  -->
+  <string name="return_url">
+  </string>
+  <string name="notify_url">
+  </string>
+  <string name="PARTNER">
+  </string>
+  <string name="SELLER">
+  </string>
+  <string name="RSA_PRIVATE">
+  </string>
+  <string name="RSA_PUBLIC">
+  </string>
+  <!-- 友盟配置  -->
+  <string name="UMAppkey">
+  </string>
+  <!-- 是否开启横屏  -->
+  <string name="IsLandscape">0</string>
+  <!-- 微信登陆、微信支付配置  -->
+  <string name="WX_APP_ID">
+  </string>
+  <string name="WX_MCH_ID">
+  </string>
+  <string name="WX_API_KEY">
+  </string>
+  <string name="WX_return_url">
+  </string>
+  <string name="WX_notify_url">
+  </string>
+  <string name="WX_SECRET">
+  </string>
+  <!-- 联通屏蔽插件 -->
+  <string name="IsUnicom">0</string>
+  <!-- 下拉刷新开关 -->
+  <string name="IsCloseRefresh">1</string>
+  <!-- 下拉刷新开关 -->
+  <string name="IsCloseLoad">1</string>
+  <!-- 加载提示框开关 -->
+  <string name="IsClosePhoneState">1</string>
+  <!-- 远程下载XML本地版本号 -->
+  <string name="YDBsvnversion">367</string>
+  <string name="YDBxmlversion">0</string>
+  <!-- QQ登陆配置 -->
+  <string name="QQAPPID">
+  </string>
+  <!-- 友盟推送APPkey -->
+  <string name="IOSPushAppkey">
+  </string>
+  <!-- 预加载开关 -->
+  <string name="PreloadState">1</string>
+  <!-- 预加载网页进度比开关 -->
+  <string name="PreloadPercent">80</string>
+  <!-- 预加载关闭时间 -->
+  <string name="PreloadTime">15</string>
+  <!-- 预加载图片-->
+  <string name="PreloadImg">0</string>
+  
+  <!-- 超时弹出框开关 -->
+  <string name="RemindState">0</string>
+  <!-- 超时弹出框时间 -->
+  <string name="RemindTime">20</string>
+  <!-- 超时弹出框网页进度比 -->
+  <string name="RemindPercent">80</string>
+  
+  <!-- 顶部加载进度条颜色 -->
+  <string name="ProgressViewColor">#00bc08</string>
+  <!-- 融云APPKEY -->
+  <string name="RONG_CLOUD_APP_KEY">
+  </string>
+  <!-- 是否启用低版本WebView-->
+  <string name="OldVersionWebView">0</string>
+  <!-- facebookSDK -->
+  <string name="facebook_app_id">
+  </string>
+  <!-- 内部本号 -->
+  <string name="versionname">2.0.1</string>
+  <!-- 自定义UA类型 -->
+  <string name="UserAgentType">0</string>
+  <!-- 自定义UA内容 -->
+  <string name="UserAgentContent">
+  </string>
+  <!--微信JSDK接口文件 -->
+  <string name="WeChatJsPath">
+  </string>
+  <!-- 微信登陆返回URL -->
+  <string name="WeChatAccessUrl">
+  </string>
+  <!-- 页面禁止是否拷贝 -->
+  <string name="IsCopy"></string>
+  <!-- 页面背景色 -->
+  <string name="webviewbg"></string>
+  <!-- 状态栏背景色 -->
+  <string name="StatusbarBgColor">#000000</string>
+  <!-- 微信兼容APPID -->
+  <string name="PigWxToken"></string>
+  <!-- 微信兼容判断CMS -->
+  <string name="CmsSystem"></string>
+</resources>

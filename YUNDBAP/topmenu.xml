@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    
+    <row name="关于" type="1" weburl=""/>
+    
+    <row name="检测升级" type="2" weburl=""/>
+    
+    <row name="分享" type="3" weburl=""/>
+    
+    <row name="扫一扫" type="4" weburl=""/>
+    
+    <row name="清理缓存" type="5" weburl=""/>
+    
+</resources>
+

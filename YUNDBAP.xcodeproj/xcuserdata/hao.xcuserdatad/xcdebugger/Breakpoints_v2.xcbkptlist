@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.807044"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2264"
+            endingLineNumber = "2264"
+            landmarkName = "-clearCache"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HwOnePageViewController clearCache]"
+                  moduleName = "YUNDBAP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hao/Desktop/%E4%BA%91%E6%89%93%E5%8C%85/YUNDBAP/YUNDBAP/HwOnePageViewController.m"
+                  timestampString = "530678315.494036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2264"
+                  endingLineNumber = "2264"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[HwOnePageViewController clearCache]_block_invoke"
+                  moduleName = "YUNDBAP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hao/Desktop/%E4%BA%91%E6%89%93%E5%8C%85/YUNDBAP/YUNDBAP/HwOnePageViewController.m"
+                  timestampString = "530678315.496577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2266"
+                  endingLineNumber = "2266"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.878782"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7315"
+            endingLineNumber = "7315"
+            landmarkName = "-MultiPicShare:andConten:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.88261"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7356"
+            endingLineNumber = "7356"
+            landmarkName = "-MultiPicShare:andConten:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.884271"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7383"
+            endingLineNumber = "7383"
+            landmarkName = "-MultiPicShare:andConten:andType:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HwOnePageViewController MultiPicShare:andConten:andType:]"
+                  moduleName = "YUNDBAP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hao/Desktop/%E4%BA%91%E6%89%93%E5%8C%85/YUNDBAP/YUNDBAP/HwOnePageViewController.m"
+                  timestampString = "530678315.513384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7383"
+                  endingLineNumber = "7383"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__59-[HwOnePageViewController MultiPicShare:andConten:andType:]_block_invoke"
+                  moduleName = "YUNDBAP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hao/Desktop/%E4%BA%91%E6%89%93%E5%8C%85/YUNDBAP/YUNDBAP/HwOnePageViewController.m"
+                  timestampString = "530678315.516007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7384"
+                  endingLineNumber = "7384"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.885557"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7385"
+            endingLineNumber = "7385"
+            landmarkName = "-MultiPicShare:andConten:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.887261"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7342"
+            endingLineNumber = "7342"
+            landmarkName = "-MultiPicShare:andConten:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/HwOnePageViewController.m"
+            timestampString = "530519431.890788"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7378"
+            endingLineNumber = "7378"
+            landmarkName = "-MultiPicShare:andConten:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YUNDBAP/Plugin/AddressBookClass.m"
+            timestampString = "530678184.113855"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "-chackAllpeopleInfo"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

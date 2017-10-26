@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "96941874-F558-4BC8-9E23-1C8C095A9CBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239" : "IpaFactory2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NewCloudAppAPS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "source\/NewCloudAppAPS\/NewCloudAppAPS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/42.236.74.189\/mycode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239"
+    }
+  ]
+}

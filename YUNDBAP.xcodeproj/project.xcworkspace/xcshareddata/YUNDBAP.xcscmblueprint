@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DC7F609F-9E80-44D1-82FC-5143C96DDE50",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239" : "IpaFactory2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YUNDBAP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "source\/YUNDBAP\/YUNDBAP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/42.236.74.189\/mycode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8cb224f7-8d92-42a9-9fb9-db37a591efc9++4239"
+    }
+  ]
+}

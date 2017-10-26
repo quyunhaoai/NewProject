@@ -1,0 +1,25 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#define API_KEY @"8MAxI5o7VjKSZOKeBzS4XtxO" // 请修改为您在百度开发者平台申请的API_KEY
+#define SECRET_KEY @"Ge5GXVdGQpaxOmLzc8fOM8309ATCz9Ha" // 请修改您在百度开发者平台申请的SECRET_KEY
+
+#define APPID_VALUE @"54fcf966" //讯飞语音识别
+#define TIMEOUT_VALUE         @"20000"            // timeout      连接超时的时间，以ms为单位
+//#define partnerNumber @"2088911535895772"
+//#define sellerID @"cheguanjiala@qq.com"
+//#define privateKey @"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAL6ZmEgtydRtGv3p/yL4K3Vgkd3eADih5HpWwQdm698LEf3WM+O1JCPmdjmXIpifNv5DiHLcdAUlOYJ8AnMVj7FUc8Upf46ybeUbE5+dSeaHZP7kHEPCG427cHHMKgjHtf8GkVuynfYdbMckfIvS6yaGHc9S4S73rc2Tv/BCUfSpAgMBAAECgYEAuqXK3JQKW73ketaVBPemBzHkZjKqYMsY5Tzjlo4RWcCLg9opwkl29LkQ+WCpfnAb+G7FxkVgUFGducwa0fxBUyO0RvAnpdB+V9QVSKJFgHeWSgFJEz/TilX3DMeJ6I0kRJL3CoqH7imJWIxzWBozqXtHI8ksLEFRVR2xVJn7EWkCQQDh/WWFehnl4YeesWImCTqBxbdei+CqUZTyCKUkSDC1fbhES0DLKxvSIStEzr8G7/o5b11GkpGsLwl2z/GWLJ9vAkEA1+kboM3Nm4IQhbB92TpDSO+aA5XPUwVj0axFIFo2gBZEo8zWGutrKlM0E0OMnftlzs4W2DAubeWrjaFZLvehZwJALjXbgYyzKP+R9NA+yppOfWTJlyqxGQKvm0JLSnz8gNAhUs20hRbejHw91ccU5r1BhGcSQrEL2pKPs9zXgKbFPwJBAMJOK6n8bFPNqlbV7Xvn3hOuZVliodEiIaHZOeCSr0d4Qs9ykSBqyuetN0k62jp2uzlw6MgoHDCUp13vXZZSDnMCQETacLl9UPwEfUAtA0RUpu6AZ57cSfZciV3494bZSD59CS4y+RlpZmmNJ96z9ug5pQK+Xv20qGELh/hpcDqJ4f0="
+
+#endif
